@@ -1,0 +1,72 @@
+{
+  "cacf478a-ad64-464b-a25d-b648575c6302": {
+    "uuid": "cacf478a-ad64-464b-a25d-b648575c6302",
+    "lastName": "Wattinham",
+    "firstName": "Lilly",
+    "streetAddress": {
+      "street": "166 Gateway Alley",
+      "city": "Bridgeport",
+      "state": "CT",
+      "zip": "06606"
+    },
+    "emailAddresses": [
+      "lwattinham0@purevolume.com"
+    ]
+  },
+  "b812569c-5996-4d46-8a04-d8644ba57e34": {
+    "uuid": "b812569c-5996-4d46-8a04-d8644ba57e34",
+    "lastName": "Benoist",
+    "firstName": "Scot",
+    "streetAddress": {
+      "street": "5420 Dryden Drive",
+      "city": "Decatur",
+      "state": "GA",
+      "zip": "30033"
+    },
+    "emailAddresses": [
+      "sbenoist3@upenn.edu"
+    ]
+  },
+  "645ecf63-3937-404f-8fd0-ef239b0fdc6a": {
+    "uuid": "645ecf63-3937-404f-8fd0-ef239b0fdc6a",
+    "lastName": "Cavolini",
+    "firstName": "Torrin",
+    "streetAddress": {
+      "street": "266 Becker Way",
+      "city": "Erie",
+      "state": "PA",
+      "zip": "16510"
+    },
+    "emailAddresses": [
+      "tcavolini1@archive.org"
+    ]
+  },
+  "de31c87f-627d-45c2-91af-5f794b1a92ad": {
+    "uuid": "de31c87f-627d-45c2-91af-5f794b1a92ad",
+    "lastName": "Stairmond",
+    "firstName": "Bartholomeo",
+    "streetAddress": {
+      "street": "86 8th Alley",
+      "city": "Cleveland",
+      "state": "OH",
+      "zip": "44125"
+    },
+    "emailAddresses": [
+      "bstairmond2@telegraph.co.uk"
+    ]
+  },
+  "98036273-8126-4173-a345-684a99746cf5": {
+    "uuid": "98036273-8126-4173-a345-684a99746cf5",
+    "lastName": "Kitter",
+    "firstName": "Damiano",
+    "streetAddress": {
+      "street": "4 Katie Parkway",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30343"
+    },
+    "emailAddresses": [
+      "dkitter4@etsy.com"
+    ]
+  }
+}
