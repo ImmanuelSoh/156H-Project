@@ -1,0 +1,87 @@
+<map>
+  <entry>
+    <string>cacf478a-ad64-464b-a25d-b648575c6302</string>
+    <com.yrl.Person>
+      <uuid>cacf478a-ad64-464b-a25d-b648575c6302</uuid>
+      <lastName>Wattinham</lastName>
+      <firstName>Lilly</firstName>
+      <streetAddress>
+        <street>166 Gateway Alley</street>
+        <city>Bridgeport</city>
+        <state>CT</state>
+        <zip>06606</zip>
+      </streetAddress>
+      <emailAddresses>
+        <string>lwattinham0@purevolume.com</string>
+      </emailAddresses>
+    </com.yrl.Person>
+  </entry>
+  <entry>
+    <string>b812569c-5996-4d46-8a04-d8644ba57e34</string>
+    <com.yrl.Person>
+      <uuid>b812569c-5996-4d46-8a04-d8644ba57e34</uuid>
+      <lastName>Benoist</lastName>
+      <firstName>Scot</firstName>
+      <streetAddress>
+        <street>5420 Dryden Drive</street>
+        <city>Decatur</city>
+        <state>GA</state>
+        <zip>30033</zip>
+      </streetAddress>
+      <emailAddresses>
+        <string>sbenoist3@upenn.edu</string>
+      </emailAddresses>
+    </com.yrl.Person>
+  </entry>
+  <entry>
+    <string>645ecf63-3937-404f-8fd0-ef239b0fdc6a</string>
+    <com.yrl.Person>
+      <uuid>645ecf63-3937-404f-8fd0-ef239b0fdc6a</uuid>
+      <lastName>Cavolini</lastName>
+      <firstName>Torrin</firstName>
+      <streetAddress>
+        <street>266 Becker Way</street>
+        <city>Erie</city>
+        <state>PA</state>
+        <zip>16510</zip>
+      </streetAddress>
+      <emailAddresses>
+        <string>tcavolini1@archive.org</string>
+      </emailAddresses>
+    </com.yrl.Person>
+  </entry>
+  <entry>
+    <string>de31c87f-627d-45c2-91af-5f794b1a92ad</string>
+    <com.yrl.Person>
+      <uuid>de31c87f-627d-45c2-91af-5f794b1a92ad</uuid>
+      <lastName>Stairmond</lastName>
+      <firstName>Bartholomeo</firstName>
+      <streetAddress>
+        <street>86 8th Alley</street>
+        <city>Cleveland</city>
+        <state>OH</state>
+        <zip>44125</zip>
+      </streetAddress>
+      <emailAddresses>
+        <string>bstairmond2@telegraph.co.uk</string>
+      </emailAddresses>
+    </com.yrl.Person>
+  </entry>
+  <entry>
+    <string>98036273-8126-4173-a345-684a99746cf5</string>
+    <com.yrl.Person>
+      <uuid>98036273-8126-4173-a345-684a99746cf5</uuid>
+      <lastName>Kitter</lastName>
+      <firstName>Damiano</firstName>
+      <streetAddress>
+        <street>4 Katie Parkway</street>
+        <city>Atlanta</city>
+        <state>GA</state>
+        <zip>30343</zip>
+      </streetAddress>
+      <emailAddresses>
+        <string>dkitter4@etsy.com</string>
+      </emailAddresses>
+    </com.yrl.Person>
+  </entry>
+</map>
