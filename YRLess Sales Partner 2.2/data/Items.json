@@ -1,0 +1,62 @@
+{
+  "e003": {
+    "code": "e003",
+    "type": "P",
+    "name": "Potato Spudphone",
+    "cost": "0.69"
+  },
+  "p003": {
+    "code": "p003",
+    "type": "V",
+    "name": "Unlimited + Ads",
+    "cost": "10.0"
+  },
+  "p002": {
+    "code": "p002",
+    "type": "D",
+    "name": "42G Meaning",
+    "cost": "42.42"
+  },
+  "e001": {
+    "code": "e001",
+    "type": "P",
+    "name": "Nokia Drop",
+    "cost": "69.99"
+  },
+  "p001": {
+    "code": "p001",
+    "type": "D",
+    "name": "6G Basic",
+    "cost": "4.99"
+  },
+  "e002": {
+    "code": "e002",
+    "type": "P",
+    "name": "iPhone L",
+    "cost": "12999.99"
+  },
+  "s003": {
+    "code": "s003",
+    "type": "S",
+    "name": "Neural Interface Setup",
+    "cost": "29.99"
+  },
+  "p004": {
+    "code": "p004",
+    "type": "V",
+    "name": "Unlimited No Ads",
+    "cost": "30.0"
+  },
+  "s002": {
+    "code": "s002",
+    "type": "S",
+    "name": "Instant Delivery",
+    "cost": "59.99"
+  },
+  "s001": {
+    "code": "s001",
+    "type": "S",
+    "name": "SIM Card Transplant",
+    "cost": "199.99"
+  }
+}

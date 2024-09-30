@@ -1,0 +1,11 @@
+code,type,name,base cost
+e001,P,Nokia Drop,69.99
+e002,P,iPhone L,12999.99
+e003,P,Potato Spudphone,0.69
+s001,S,SIM Card Transplant,199.99
+s002,S,Instant Delivery,59.99
+s003,S,Neural Interface Setup,29.99
+p001,D,6G Basic,4.99
+p002,D,42G Meaning,42.42
+p003,V,Unlimited + Ads,10.0
+p004,V,Unlimited No Ads,30.0
