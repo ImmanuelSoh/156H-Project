@@ -1,0 +1,80 @@
+<map>
+  <entry>
+    <string>gtpoq2</string>
+    <com.yrl.Store>
+      <storeCode>gtpoq2</storeCode>
+      <manager>
+        <uuid>b812569c-5996-4d46-8a04-d8644ba57e34</uuid>
+        <lastName>Benoist</lastName>
+        <firstName>Scot</firstName>
+        <streetAddress>
+          <street>5420 Dryden Drive</street>
+          <city>Decatur</city>
+          <state>GA</state>
+          <zip>30033</zip>
+        </streetAddress>
+        <emailAddresses>
+          <string>sbenoist3@upenn.edu</string>
+        </emailAddresses>
+      </manager>
+      <streetAddress>
+        <street>1 Hauk Hill</street>
+        <city>Bakersfield</city>
+        <state>CA</state>
+        <zip>93386</zip>
+      </streetAddress>
+    </com.yrl.Store>
+  </entry>
+  <entry>
+    <string>onr62v</string>
+    <com.yrl.Store>
+      <storeCode>onr62v</storeCode>
+      <manager>
+        <uuid>645ecf63-3937-404f-8fd0-ef239b0fdc6a</uuid>
+        <lastName>Cavolini</lastName>
+        <firstName>Torrin</firstName>
+        <streetAddress>
+          <street>266 Becker Way</street>
+          <city>Erie</city>
+          <state>PA</state>
+          <zip>16510</zip>
+        </streetAddress>
+        <emailAddresses>
+          <string>tcavolini1@archive.org</string>
+        </emailAddresses>
+      </manager>
+      <streetAddress>
+        <street>085 Esch Lane</street>
+        <city>Arlington</city>
+        <state>TX</state>
+        <zip>76016</zip>
+      </streetAddress>
+    </com.yrl.Store>
+  </entry>
+  <entry>
+    <string>pf4fee</string>
+    <com.yrl.Store>
+      <storeCode>pf4fee</storeCode>
+      <manager>
+        <uuid>de31c87f-627d-45c2-91af-5f794b1a92ad</uuid>
+        <lastName>Stairmond</lastName>
+        <firstName>Bartholomeo</firstName>
+        <streetAddress>
+          <street>86 8th Alley</street>
+          <city>Cleveland</city>
+          <state>OH</state>
+          <zip>44125</zip>
+        </streetAddress>
+        <emailAddresses>
+          <string>bstairmond2@telegraph.co.uk</string>
+        </emailAddresses>
+      </manager>
+      <streetAddress>
+        <street>6750 Mallard Plaza</street>
+        <city>Sunnyvale</city>
+        <state>CA</state>
+        <zip>94089</zip>
+      </streetAddress>
+    </com.yrl.Store>
+  </entry>
+</map>
