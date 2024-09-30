@@ -1,0 +1,96 @@
+Phase 1 output...
++----------------------------------------------------------------------------------------+
+| Summary Report - By Total                                                              |
++----------------------------------------------------------------------------------------+
+Invoice #  Store      Customer                       Num Items          Tax       Total
+s002       pf4fee     Wattinham, Lilly               2          $    233.31 $   6100.31
+s003       onr62v     Wattinham, Lilly               2          $     24.05 $    394.04
+s001       onr62v     Wattinham, Lilly               2          $      3.19 $     93.85
++----------------------------------------------------------------------------------------+
+                                                     6          $    260.55 $   6588.20
+
++----------------------------------------------------------------+
+| Store Sales Summary Report                                     |
++----------------------------------------------------------------+
+Store      Manager                        # Sales    Grand Total   
+gtpoq2     Benoist, Scot                  0          $      0.00 
+onr62v     Cavolini, Torrin               2          $    487.89
+pf4fee     Stairmond, Bartholomeo         1          $   6100.31
++----------------------------------------------------------------+
+                                          3          $   6588.20
+
+Sale     #s003
+Store    #onr62v
+Date      2024-02-29
+Customer: 
+Wattinham, Lilly (cacf478a-ad64-464b-a25d-b648575c6302) 
+	[lwattinham0@purevolume.com]
+	166 Gateway Alley
+	Bridgeport CT 06606
+
+Sales Person: 
+Cavolini, Torrin (645ecf63-3937-404f-8fd0-ef239b0fdc6a) 
+	[tcavolini1@archive.org]
+	266 Becker Way
+	Erie PA 16510
+
+Items (2)                                                            Tax       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=- -=-=-=-=-=-
+Nokia Drop (e001)
+                                                             $      4.55 $     69.99
+Unlimited No Ads (p004) - Voice 123-456-7890
+	300 days @ $30.00 / 30 days
+                                                             $     19.50 $    300.00
+                                                             -=-=-=-=-=- -=-=-=-=-=-
+                                                   Subtotals $     24.05 $    369.99
+                                                 Grand Total             $    394.04
+Sale     #s002
+Store    #pf4fee
+Date      2024-02-28
+Customer: 
+Wattinham, Lilly (cacf478a-ad64-464b-a25d-b648575c6302) 
+	[lwattinham0@purevolume.com]
+	166 Gateway Alley
+	Bridgeport CT 06606
+
+Sales Person: 
+Stairmond, Bartholomeo (de31c87f-627d-45c2-91af-5f794b1a92ad) 
+	[bstairmond2@telegraph.co.uk]
+	86 8th Alley
+	Cleveland OH 44125
+
+Items (2)                                                            Tax       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=- -=-=-=-=-=-
+iPhone L (e002) - Lease for 12 months
+                                                             $      0.00 $   1625.00
+42G Meaning (p002) - Data
+  	100.0 GB @ $42.42/GB 
+                                                             $    233.31 $   4242.00
+                                                             -=-=-=-=-=- -=-=-=-=-=-
+                                                   Subtotals $    233.31 $   5867.00
+                                                 Grand Total             $   6100.31
+Sale     #s001
+Store    #onr62v
+Date      2024-02-28
+Customer: 
+Wattinham, Lilly (cacf478a-ad64-464b-a25d-b648575c6302) 
+	[lwattinham0@purevolume.com]
+	166 Gateway Alley
+	Bridgeport CT 06606
+
+Sales Person: 
+Cavolini, Torrin (645ecf63-3937-404f-8fd0-ef239b0fdc6a) 
+	[tcavolini1@archive.org]
+	266 Becker Way
+	Erie PA 16510
+
+Items (2)                                                            Tax       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=- -=-=-=-=-=-
+Potato Spudphone (e003)  
+                                                             $      0.04 $      0.69
+Neural Interface Setup (s003) - Served by Cavolini, Torrin 
+  	3.0 hours @ $29.99/hour 
+                                                             $      3.15 $     89.97
+                                                             -=-=-=-=-=- -=-=-=-=-=-
+                                                   Subtotals $      3.19 $     90.66
+                                                 Grand Total             $     93.85

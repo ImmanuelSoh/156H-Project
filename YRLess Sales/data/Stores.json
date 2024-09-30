@@ -1,0 +1,71 @@
+{
+  "gtpoq2": {
+    "storeCode": "gtpoq2",
+    "manager": {
+      "uuid": "b812569c-5996-4d46-8a04-d8644ba57e34",
+      "lastName": "Benoist",
+      "firstName": "Scot",
+      "streetAddress": {
+        "street": "5420 Dryden Drive",
+        "city": "Decatur",
+        "state": "GA",
+        "zip": "30033"
+      },
+      "emailAddresses": [
+        "sbenoist3@upenn.edu"
+      ]
+    },
+    "streetAddress": {
+      "street": "1 Hauk Hill",
+      "city": "Bakersfield",
+      "state": "CA",
+      "zip": "93386"
+    }
+  },
+  "onr62v": {
+    "storeCode": "onr62v",
+    "manager": {
+      "uuid": "645ecf63-3937-404f-8fd0-ef239b0fdc6a",
+      "lastName": "Cavolini",
+      "firstName": "Torrin",
+      "streetAddress": {
+        "street": "266 Becker Way",
+        "city": "Erie",
+        "state": "PA",
+        "zip": "16510"
+      },
+      "emailAddresses": [
+        "tcavolini1@archive.org"
+      ]
+    },
+    "streetAddress": {
+      "street": "085 Esch Lane",
+      "city": "Arlington",
+      "state": "TX",
+      "zip": "76016"
+    }
+  },
+  "pf4fee": {
+    "storeCode": "pf4fee",
+    "manager": {
+      "uuid": "de31c87f-627d-45c2-91af-5f794b1a92ad",
+      "lastName": "Stairmond",
+      "firstName": "Bartholomeo",
+      "streetAddress": {
+        "street": "86 8th Alley",
+        "city": "Cleveland",
+        "state": "OH",
+        "zip": "44125"
+      },
+      "emailAddresses": [
+        "bstairmond2@telegraph.co.uk"
+      ]
+    },
+    "streetAddress": {
+      "street": "6750 Mallard Plaza",
+      "city": "Sunnyvale",
+      "state": "CA",
+      "zip": "94089"
+    }
+  }
+}
