@@ -1,0 +1,62 @@
+<list>
+  <com.yrl.Item>
+    <code>e001</code>
+    <type>P</type>
+    <name>Nokia Drop</name>
+    <cost>69.99</cost>
+  </com.yrl.Item>
+  <com.yrl.Item>
+    <code>e002</code>
+    <type>P</type>
+    <name>iPhone L</name>
+    <cost>12999.99</cost>
+  </com.yrl.Item>
+  <com.yrl.Item>
+    <code>e003</code>
+    <type>P</type>
+    <name>Potato Spudphone</name>
+    <cost>0.69</cost>
+  </com.yrl.Item>
+  <com.yrl.Item>
+    <code>s001</code>
+    <type>S</type>
+    <name>SIM Card Transplant</name>
+    <cost>199.99</cost>
+  </com.yrl.Item>
+  <com.yrl.Item>
+    <code>s002</code>
+    <type>S</type>
+    <name>Instant Delivery</name>
+    <cost>59.99</cost>
+  </com.yrl.Item>
+  <com.yrl.Item>
+    <code>s003</code>
+    <type>S</type>
+    <name>Neural Interface Setup</name>
+    <cost>29.99</cost>
+  </com.yrl.Item>
+  <com.yrl.Item>
+    <code>p001</code>
+    <type>D</type>
+    <name>6G Basic</name>
+    <cost>4.99</cost>
+  </com.yrl.Item>
+  <com.yrl.Item>
+    <code>p002</code>
+    <type>D</type>
+    <name>42G Meaning</name>
+    <cost>42.42</cost>
+  </com.yrl.Item>
+  <com.yrl.Item>
+    <code>p003</code>
+    <type>V</type>
+    <name>Unlimited Annually</name>
+    <cost>100</cost>
+  </com.yrl.Item>
+  <com.yrl.Item>
+    <code>p004</code>
+    <type>V</type>
+    <name>Unlimited Decennially</name>
+    <cost>900</cost>
+  </com.yrl.Item>
+</list>

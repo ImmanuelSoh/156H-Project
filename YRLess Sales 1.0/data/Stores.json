@@ -1,0 +1,114 @@
+[
+  {
+    "storeCode": "onr62v",
+    "manager": {
+      "uuid": "b6e77a61-2fb9-4f25-8673-54ac0c07175c",
+      "lastName": "",
+      "firstName": ""
+    },
+    "streetAddress": {
+      "street": "085 Esch Lane",
+      "city": "Arlington",
+      "state": "TX",
+      "zip": "76016"
+    }
+  },
+  {
+    "storeCode": "pf4fee",
+    "manager": {
+      "uuid": "fc1d7c70-e3fa-4262-9e31-6de25528ff2f",
+      "lastName": "",
+      "firstName": ""
+    },
+    "streetAddress": {
+      "street": "6750 Mallard Plaza",
+      "city": "Sunnyvale",
+      "state": "CA",
+      "zip": "94089"
+    }
+  },
+  {
+    "storeCode": "gtpoq2",
+    "manager": {
+      "uuid": "4771c0ef-68be-4dc1-bce6-2a180979603d",
+      "lastName": "",
+      "firstName": ""
+    },
+    "streetAddress": {
+      "street": "1 Hauk Hill",
+      "city": "Bakersfield",
+      "state": "CA",
+      "zip": "93386"
+    }
+  },
+  {
+    "storeCode": "mhjq88",
+    "manager": {
+      "uuid": "50341fce-79e5-4158-87f0-4be29d69cafb",
+      "lastName": "",
+      "firstName": ""
+    },
+    "streetAddress": {
+      "street": "9 Namekagon Pass",
+      "city": "Valdosta",
+      "state": "GA",
+      "zip": "31605"
+    }
+  },
+  {
+    "storeCode": "ox5q4p",
+    "manager": {
+      "uuid": "d5a54673-b7d8-4e55-b96e-097de5347601",
+      "lastName": "",
+      "firstName": ""
+    },
+    "streetAddress": {
+      "street": "74290 Dennis Terrace",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77245"
+    }
+  },
+  {
+    "storeCode": "vni8vm",
+    "manager": {
+      "uuid": "1ca41e75-4722-43cb-a02c-f96e4bf05ec4",
+      "lastName": "",
+      "firstName": ""
+    },
+    "streetAddress": {
+      "street": "1224 Buena Vista Plaza",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": "21265"
+    }
+  },
+  {
+    "storeCode": "wol5nr",
+    "manager": {
+      "uuid": "46d7f3f7-bbe9-4fe5-b66e-9ead25daccb0",
+      "lastName": "",
+      "firstName": ""
+    },
+    "streetAddress": {
+      "street": "64645 Alpine Crossing",
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35236"
+    }
+  },
+  {
+    "storeCode": "mzvkvs",
+    "manager": {
+      "uuid": "2e63e879-e548-4230-b49b-cd1a993813e9",
+      "lastName": "",
+      "firstName": ""
+    },
+    "streetAddress": {
+      "street": "6639 Summer Ridge Road",
+      "city": "Cleveland",
+      "state": "OH",
+      "zip": "44105"
+    }
+  }
+]

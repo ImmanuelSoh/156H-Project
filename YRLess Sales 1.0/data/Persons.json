@@ -1,0 +1,128 @@
+[
+  {
+    "uuid": "cacf478a-ad64-464b-a25d-b648575c6302",
+    "lastName": "Wattinham",
+    "firstName": "Lilly",
+    "streetAddress": {
+      "street": "166 Gateway Alley",
+      "city": "Bridgeport",
+      "state": "CT",
+      "zip": "06606"
+    },
+    "emailAddresses": [
+      "lwattinham0@purevolume.com"
+    ]
+  },
+  {
+    "uuid": "645ecf63-3937-404f-8fd0-ef239b0fdc6a",
+    "lastName": "Cavolini",
+    "firstName": "Torrin",
+    "streetAddress": {
+      "street": "266 Becker Way",
+      "city": "Erie",
+      "state": "PA",
+      "zip": "16510"
+    },
+    "emailAddresses": [
+      "tcavolini1@archive.org"
+    ]
+  },
+  {
+    "uuid": "de31c87f-627d-45c2-91af-5f794b1a92ad",
+    "lastName": "Stairmond",
+    "firstName": "Bartholomeo",
+    "streetAddress": {
+      "street": "86 8th Alley",
+      "city": "Cleveland",
+      "state": "OH",
+      "zip": "44125"
+    },
+    "emailAddresses": [
+      "bstairmond2@telegraph.co.uk"
+    ]
+  },
+  {
+    "uuid": "b812569c-5996-4d46-8a04-d8644ba57e34",
+    "lastName": "Benoist",
+    "firstName": "Scot",
+    "streetAddress": {
+      "street": "5420 Dryden Drive",
+      "city": "Decatur",
+      "state": "GA",
+      "zip": "30033"
+    },
+    "emailAddresses": [
+      "sbenoist3@upenn.edu"
+    ]
+  },
+  {
+    "uuid": "98036273-8126-4173-a345-684a99746cf5",
+    "lastName": "Kitter",
+    "firstName": "Damiano",
+    "streetAddress": {
+      "street": "4 Katie Parkway",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30343"
+    },
+    "emailAddresses": [
+      "dkitter4@etsy.com"
+    ]
+  },
+  {
+    "uuid": "ddefe881-fd73-46d2-84a9-a257f1bd40d2",
+    "lastName": "Kiessel",
+    "firstName": "Rosemarie",
+    "streetAddress": {
+      "street": "0202 Hagan Junction",
+      "city": "Stockton",
+      "state": "CA",
+      "zip": "95219"
+    },
+    "emailAddresses": [
+      "rkiessel5@last.fm"
+    ]
+  },
+  {
+    "uuid": "ed05b136-93ea-4793-9101-0522ded0bb89",
+    "lastName": "Snare",
+    "firstName": "Iago",
+    "streetAddress": {
+      "street": "42392 Nevada Alley",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20409"
+    },
+    "emailAddresses": [
+      "isnare6@csmonitor.com"
+    ]
+  },
+  {
+    "uuid": "8718250a-570c-4a31-88be-8a86ae399433",
+    "lastName": "Lyven",
+    "firstName": "Titos",
+    "streetAddress": {
+      "street": "58 Bellgrove Park",
+      "city": "Oxnard",
+      "state": "CA",
+      "zip": "93034"
+    },
+    "emailAddresses": [
+      "tlyven7@prnewswire.com"
+    ]
+  },
+  {
+    "uuid": "271f748d-a402-4852-a0b0-19282e33fa09",
+    "lastName": "Aysik",
+    "firstName": "Jami",
+    "streetAddress": {
+      "street": "29 Melody Trail",
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35290"
+    },
+    "emailAddresses": [
+      "jaysik8@jigsy.com"
+    ]
+  }
+]

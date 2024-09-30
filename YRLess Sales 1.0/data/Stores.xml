@@ -1,0 +1,114 @@
+<list>
+  <com.yrl.Store>
+    <storeCode>onr62v</storeCode>
+    <manager>
+      <uuid>b6e77a61-2fb9-4f25-8673-54ac0c07175c</uuid>
+      <lastName></lastName>
+      <firstName></firstName>
+    </manager>
+    <streetAddress>
+      <street>085 Esch Lane</street>
+      <city>Arlington</city>
+      <state>TX</state>
+      <zip>76016</zip>
+    </streetAddress>
+  </com.yrl.Store>
+  <com.yrl.Store>
+    <storeCode>pf4fee</storeCode>
+    <manager>
+      <uuid>fc1d7c70-e3fa-4262-9e31-6de25528ff2f</uuid>
+      <lastName></lastName>
+      <firstName></firstName>
+    </manager>
+    <streetAddress>
+      <street>6750 Mallard Plaza</street>
+      <city>Sunnyvale</city>
+      <state>CA</state>
+      <zip>94089</zip>
+    </streetAddress>
+  </com.yrl.Store>
+  <com.yrl.Store>
+    <storeCode>gtpoq2</storeCode>
+    <manager>
+      <uuid>4771c0ef-68be-4dc1-bce6-2a180979603d</uuid>
+      <lastName></lastName>
+      <firstName></firstName>
+    </manager>
+    <streetAddress>
+      <street>1 Hauk Hill</street>
+      <city>Bakersfield</city>
+      <state>CA</state>
+      <zip>93386</zip>
+    </streetAddress>
+  </com.yrl.Store>
+  <com.yrl.Store>
+    <storeCode>mhjq88</storeCode>
+    <manager>
+      <uuid>50341fce-79e5-4158-87f0-4be29d69cafb</uuid>
+      <lastName></lastName>
+      <firstName></firstName>
+    </manager>
+    <streetAddress>
+      <street>9 Namekagon Pass</street>
+      <city>Valdosta</city>
+      <state>GA</state>
+      <zip>31605</zip>
+    </streetAddress>
+  </com.yrl.Store>
+  <com.yrl.Store>
+    <storeCode>ox5q4p</storeCode>
+    <manager>
+      <uuid>d5a54673-b7d8-4e55-b96e-097de5347601</uuid>
+      <lastName></lastName>
+      <firstName></firstName>
+    </manager>
+    <streetAddress>
+      <street>74290 Dennis Terrace</street>
+      <city>Houston</city>
+      <state>TX</state>
+      <zip>77245</zip>
+    </streetAddress>
+  </com.yrl.Store>
+  <com.yrl.Store>
+    <storeCode>vni8vm</storeCode>
+    <manager>
+      <uuid>1ca41e75-4722-43cb-a02c-f96e4bf05ec4</uuid>
+      <lastName></lastName>
+      <firstName></firstName>
+    </manager>
+    <streetAddress>
+      <street>1224 Buena Vista Plaza</street>
+      <city>Baltimore</city>
+      <state>MD</state>
+      <zip>21265</zip>
+    </streetAddress>
+  </com.yrl.Store>
+  <com.yrl.Store>
+    <storeCode>wol5nr</storeCode>
+    <manager>
+      <uuid>46d7f3f7-bbe9-4fe5-b66e-9ead25daccb0</uuid>
+      <lastName></lastName>
+      <firstName></firstName>
+    </manager>
+    <streetAddress>
+      <street>64645 Alpine Crossing</street>
+      <city>Birmingham</city>
+      <state>AL</state>
+      <zip>35236</zip>
+    </streetAddress>
+  </com.yrl.Store>
+  <com.yrl.Store>
+    <storeCode>mzvkvs</storeCode>
+    <manager>
+      <uuid>2e63e879-e548-4230-b49b-cd1a993813e9</uuid>
+      <lastName></lastName>
+      <firstName></firstName>
+    </manager>
+    <streetAddress>
+      <street>6639 Summer Ridge Road</street>
+      <city>Cleveland</city>
+      <state>OH</state>
+      <zip>44105</zip>
+    </streetAddress>
+  </com.yrl.Store>
+</list>
